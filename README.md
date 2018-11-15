@@ -9,9 +9,9 @@ Guide on how to operate the Pan and Tilt mechanism for a Pixymon
 
 # Fixing a Pixymon
 <ol>
-<li>Try a different cable, the shorter the better. </li>
-  </ol>
-> If it has problems tracking your object try resetting the signature under the action menu. <br>
-> Reexamine the mechanical aspects of the Pixy and ensure the servos can move freely. <br>
-> Swap the servo cables around to find disfunctional pieces. (Do this if your Pixymon acts crazy and erratic) <br>
-> Reset the settings under the action menu.
+<li>Try a different cable, the shorter the better.</li>
+<li>If it has problems tracking your object try resetting the signature under the action menu.</li>
+<li>Reexamine the mechanical aspects of the Pixy and ensure the servos can move freely.</li>
+<li>Swap the servo cables around to find disfunctional pieces. (Do this if your Pixymon acts crazy and erratic)</li>
+<li>Reset the settings under the action menu.</li>
+</ol>
