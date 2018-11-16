@@ -15,3 +15,5 @@ Guide on how to operate the Pan and Tilt mechanism for a Pixymon
 <li>Swap the servo cables around to find disfunctional pieces. (Do this if your Pixymon acts crazy and erratic)</li>
 <li>Reset the settings under the action menu.</li>
 </ol>
+
+<img src="IMG_4633.jpg">
