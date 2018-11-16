@@ -1,4 +1,4 @@
-# Pixymon-Pan-and-Tilt
+# PixyMon-Pan-and-Tilt
 Guide on how to operate the Pan and Tilt mechanism for a Pixymon
 
 # How to run Pan and Tilt
@@ -7,7 +7,7 @@ Guide on how to operate the Pan and Tilt mechanism for a Pixymon
 > Once your object is being tracked, run the Pan and Tilt Demo under the action menu. <br>
 > The Pixy should track the color or object identified.
 
-# Fixing a Pixymon
+# Fixing a PixyMon
 <ol>
 <li>Try a different cable, the shorter the better.</li>
 <li>If it has problems tracking your object try resetting the signature under the action menu.</li>
