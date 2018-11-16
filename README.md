@@ -17,3 +17,5 @@ Guide on how to operate the Pan and Tilt mechanism for a Pixymon
 </ol>
 
 <img src="IMG_4633.jpg">
+<img src="IMG_4634.jpg">
+<img src="IMG_4635.jpg">
