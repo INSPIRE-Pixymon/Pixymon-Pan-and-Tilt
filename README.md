@@ -16,6 +16,6 @@ Guide on how to operate the Pan and Tilt mechanism for a PixyMon
 <li>Reset the settings under the action menu.</li>
 </ol>
 
-<img src="IMG_4633.jpg">
-<img src="IMG_4634.jpg">
-<img src="IMG_4635.jpg">
+<img src="IMG_4633.jpg" height = "300" width = "300">
+<img src="IMG_4634.jpg" height = "300" width = "300">
+<img src="IMG_4635.jpg" height = "300" width = "300">
